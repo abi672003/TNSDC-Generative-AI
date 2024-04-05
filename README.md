@@ -1,6 +1,4 @@
 # TNSDC-Generative-AI
-Here's a sample GitHub README for the provided code:
-
 ---
 
 # Age and Gender Detection from Facial Images
