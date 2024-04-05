@@ -9,7 +9,7 @@ This project aims to predict age and gender from facial images using Convolution
 
 ## Dataset
 
-The dataset used for training consists of facial images labeled with age and gender information. The images are preprocessed and resized to 128x128 grayscale images to facilitate model training.
+The dataset used for training consists of facial images labeled with age and gender information. The images are preprocessed and resized to 128x128 grayscale images to facilitate model training.The dataset is https://www.kaggle.com/code/eward96/age-and-gender-prediction-on-utkface
 
 ## Model Architecture
 
