@@ -1,6 +1,5 @@
 # TNSDC-Generative-AI
 ---
-
 # Age and Gender Detection from Facial Images
 
 This project aims to predict age and gender from facial images using Convolutional Neural Networks (CNNs). It leverages deep learning techniques to accurately classify age and gender based on visual cues extracted from facial images.
